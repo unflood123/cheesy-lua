@@ -1,5 +1,5 @@
 local screensize = vec2(ac.getSim().windowWidth,ac.getSim().windowHeight)
-local timer = 5
+local timer = 0
 
 --image_0 is used as the rules splash screen
 local image_0 = {
@@ -15,7 +15,7 @@ local image_1 = {
     ['src'] = 'https://thumbs.dreamstime.com/b/funny-face-12963753.jpg',
     ['sizeX'] = 128,
     ['sizeY'] = 128,
-    ['paddingX'] = 50, --use this to align it, currently 50 pixels from top right
+    ['paddingX'] = 100, --use this to align it, currently 50 pixels from top right
     ['paddingY'] = 50 --use this to align it, currently 50 pixels from top right
 }
 
