@@ -12,7 +12,7 @@ local image_0 = {
 
 --image_1 is used as the icon
 local image_1 = {
-    ['src'] = 'https://cdn.discordapp.com/attachments/916519586332049429/1056821098060206121/LOGO_GIF.gif',
+    ['src'] = 'https://cdn.discordapp.com/attachments/916519586332049429/1056821070281310299/LOGO_Transparent.png',
     ['sizeX'] = 128,
     ['sizeY'] = 128,
     ['paddingX'] = 1600, --use this to align it, currently 50 pixels from top right
